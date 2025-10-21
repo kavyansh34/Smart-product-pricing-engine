@@ -62,6 +62,5 @@ pip install -r requirements.txt
 ## 🔁 How to Run
 1. Clone repo: `git clone ...`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Download dataset from competition and place in `dataset/` folder.
-4. Run notebook `notebooks/01_data_exploration.ipynb` or script `src/train_model.py`
-5. Results & submission will appear in `outputs/`
+3. Download dataset from competition.
+4. Run script `price_prediction_pipeline.py`
