@@ -58,3 +58,10 @@ SMAPE = \frac{1}{n}\sum \frac{|y_{pred} - y_{true}|}{(|y_{pred}| + |y_{true}|)/2
 ## 📦 Requirements
 ```bash
 pip install -r requirements.txt
+```
+## 🔁 How to Run
+1. Clone repo: `git clone ...`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Download dataset from competition and place in `dataset/` folder.
+4. Run notebook `notebooks/01_data_exploration.ipynb` or script `src/train_model.py`
+5. Results & submission will appear in `outputs/`
