@@ -19,3 +19,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## ⚙️ Steps to Create This Repo
+
+1. **Create new repository on GitHub**
+   - Name: `smart-pricing-ml`
+   - Visibility: Public
+   - Add a README (optional — you’ll replace it anyway)
+
+2. **Clone locally**
+   ```bash
+   git clone https://github.com/yourusername/smart-pricing-ml.git
+   cd smart-pricing-ml
